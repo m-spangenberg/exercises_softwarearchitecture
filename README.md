@@ -102,7 +102,7 @@
 - Principles of Usability
 - Techniques to Improve Usability
 
-## Chapter 6: Architectural Documentation and Modeling
+## Architectural Documentation and Modeling
 - Importance of Documentation
 - Architectural Blueprints
 - UML for Architectural Modeling
